@@ -1,0 +1,1 @@
+/home/starbinna/Downloads/xhashtag-staking-contracts/target/bpfel-unknown-unknown/release/libsolview_staking.rlib: /home/starbinna/Downloads/xhashtag-staking-contracts/programs/solview-staking/src/lib.rs

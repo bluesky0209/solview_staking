@@ -1,0 +1,12 @@
+/home/starbinna/Downloads/xhashtag-staking-contracts/target/bpfel-unknown-unknown/release/deps/without_alloc-712186ac990b8b0c.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/alloc.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/boxed.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/rc.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/uninit.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/fixed_vec.rs
+
+/home/starbinna/Downloads/xhashtag-staking-contracts/target/bpfel-unknown-unknown/release/deps/libwithout_alloc-712186ac990b8b0c.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/alloc.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/boxed.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/rc.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/uninit.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/fixed_vec.rs
+
+/home/starbinna/Downloads/xhashtag-staking-contracts/target/bpfel-unknown-unknown/release/deps/without_alloc-712186ac990b8b0c.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/alloc.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/boxed.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/rc.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/uninit.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/fixed_vec.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/alloc.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/boxed.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/rc.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/uninit.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/fixed_vec.rs:

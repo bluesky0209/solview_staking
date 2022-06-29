@@ -1,0 +1,17 @@
+[programs.localnet]
+solview_staking = "E4VP5CqmKCy7HLzCyZg3FaKLoCE5M9nLhyZLWPMjeeQ6"
+[programs.devnet]
+solview_staking = "E4VP5CqmKCy7HLzCyZg3FaKLoCE5M9nLhyZLWPMjeeQ6"
+[programs.mainnet]
+solview_staking = "E4VP5CqmKCy7HLzCyZg3FaKLoCE5M9nLhyZLWPMjeeQ6"
+
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "localnet"
+wallet = "/root/.config/solana/id.json"
+
+[scripts]
+test = "mocha -t 1000000 tests/"
